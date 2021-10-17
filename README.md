@@ -1,0 +1,2 @@
+# factorial-
+to learn factorial 
